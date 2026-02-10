@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Gallery | Portfólio</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header class="header">
+        <h1>Galeria de Imagens</h1>
+        <p>Projeto com JavaScript puro, filtros, modal e acessibilidade</p>
+
+        <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema claro e escuro">
+            🌙 Tema Escuro
+        </button>
+    </header>
+
+    <!-- FILTROS -->
+    <section class="filters" role="navigation" aria-label="Filtros de categoria">
+        <button data-filter="all" class="active">Todas</button>
+        <button data-filter="nature">Natureza</button>
+        <button data-filter="animals">Animais</button>
+        <button data-filter="city">Cidade</button>
+    </section>
+
+    <main class="gallery-container">
+        <div class="gallery" role="list"></div>
+    </main>
+
+    <!-- MODAL -->
+    <div class="modal" id="modal" role="dialog" aria-modal="true" aria-hidden="true">
+        <button class="close" aria-label="Fechar modal">&times;</button>
+
+        <div class="modal-controls">
+            <button id="prevBtn" aria-label="Imagem anterior">❮</button>
+            <button id="nextBtn" aria-label="Próxima imagem">❯</button>
+        </div>
+
+        <img class="modal-image" id="modalImage" alt="" />
+        <p class="modal-title" id="modalTitle"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
