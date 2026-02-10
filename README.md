@@ -7,7 +7,7 @@ Este projeto faz parte do meu portfólio e demonstra habilidades essenciais para
 ✨ Demonstração
 
 🔗 Live Preview:
-<img src="https://github.com/AntonioLuiz-dev/CALCULADORA/blob/main/assets/mockup.png?raw=true" width="510px"/>
+<img src="https://github.com/AntonioLuiz-dev/PROJETO-IMAGE-GALLERY/blob/main/assets/mockup.png?raw=true" width="510px"/>
 
 🎯 Objetivo do Projeto
 
