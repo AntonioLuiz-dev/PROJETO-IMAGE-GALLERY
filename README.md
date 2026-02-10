@@ -5,10 +5,11 @@ Projeto de Galeria de Imagens desenvolvido com HTML, CSS e JavaScript puro, foca
 Este projeto faz parte do meu portfólio e demonstra habilidades essenciais para vagas júnior / estágio em Front-end.
 
 ✨ Demonstração
-
+<br>
 🔗 Live Preview:
+<br>
 <img src="https://github.com/AntonioLuiz-dev/PROJETO-IMAGE-GALLERY/blob/main/assets/mockup.png?raw=true" width="510px"/>
-
+<br>
 🎯 Objetivo do Projeto
 
 Criar uma galeria de imagens moderna e funcional, sem uso de frameworks, aplicando conceitos fundamentais de:
@@ -133,7 +134,7 @@ Criação de interfaces focadas em experiência do usuário
 Antonio Luiz Santos
 💼 Desenvolvedor Front-end em formação
 
-🔗 Portfólio: adicione seu link aqui
+🔗 Portfólio: https://antonioluiz-dev.github.io/MEU-PORTIFOLIO/
 🔗 LinkedIn: https://www.linkedin.com/in/antonio-luiz-dos-santos/
 
 📄 Licença
