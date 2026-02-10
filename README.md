@@ -136,6 +136,7 @@ Antonio Luiz Santos
 💼 Desenvolvedor Front-end em formação
 
 🔗 Portfólio: https://antonioluiz-dev.github.io/MEU-PORTIFOLIO/
+<br>
 🔗 LinkedIn: https://www.linkedin.com/in/antonio-luiz-dos-santos/
 
 📄 Licença
