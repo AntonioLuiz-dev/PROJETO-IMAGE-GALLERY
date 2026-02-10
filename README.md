@@ -7,7 +7,7 @@ Este projeto faz parte do meu portfólio e demonstra habilidades essenciais para
 ✨ Demonstração
 
 🔗 Live Preview:
-👉 adicione aqui o link do GitHub Pages quando publicar
+<img src="https://github.com/AntonioLuiz-dev/CALCULADORA/blob/main/assets/mockup.png?raw=true" width="510px"/>
 
 🎯 Objetivo do Projeto
 
@@ -134,7 +134,7 @@ Antonio Luiz Santos
 💼 Desenvolvedor Front-end em formação
 
 🔗 Portfólio: adicione seu link aqui
-🔗 LinkedIn: adicione seu LinkedIn aqui
+🔗 LinkedIn: https://www.linkedin.com/in/antonio-luiz-dos-santos/
 
 📄 Licença
 
