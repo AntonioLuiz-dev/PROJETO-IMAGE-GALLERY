@@ -6,10 +6,11 @@ Este projeto faz parte do meu portfólio e demonstra habilidades essenciais para
 
 ✨ Demonstração
 <br>
-🔗 Live Preview:
+
 <br>
 <img src="https://github.com/AntonioLuiz-dev/PROJETO-IMAGE-GALLERY/blob/main/assets/mockup.png?raw=true" width="510px"/>
 <br>
+
 🎯 Objetivo do Projeto
 
 Criar uma galeria de imagens moderna e funcional, sem uso de frameworks, aplicando conceitos fundamentais de:
